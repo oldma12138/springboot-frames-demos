@@ -10,7 +10,7 @@
 	<name>springboot-frames-demo</name>
 	<description>springboot-frames-demo</description>
 	<modules>
-		<module>spring-security</module>
+		<module>spring-security-demos</module>
 	</modules>
 	<properties>
 		<java.version>8</java.version>
